@@ -1,7 +1,7 @@
 ## About
 ---
 
-I am a M.S. student in Computer Science at Beijing University of Posts and Telecommunications (BUPT), mainly working on Transfer Learning.
+I am an undergraduate student in Telecoms at Beijing University of Posts and Telecommunications (BUPT), mainly working on Transfer Learning.
 
 ## Education
 
