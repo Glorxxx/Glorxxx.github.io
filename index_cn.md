@@ -24,9 +24,9 @@
 
 ------
 
-- Sen Su, Ningning Jia, Xiang Cheng, Shuguang Zhu, **Ruiping Li**, "**Exploring Encoder-Decoder Model for Distant Supervised Relation Extraction**"
+* Yanni Zhang, **Jiaxi Yang**, Meiqi Song, Xuan Zhang, Daquan Yang, "**Single air mode resonance photonic crystal integrated nanofiber cavity with high sensitivity for refractive index sensing**"
 
-  **IJCAI2018**, long paper, [[paper]](https://www.ijcai.org/proceedings/2018/610)
+  Accepted by OA but not published
 
 ## 奖项 & 荣誉
 
