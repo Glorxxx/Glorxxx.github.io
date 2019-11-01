@@ -16,7 +16,7 @@ I am an undergraduate student in Telecoms at Beijing University of Posts and Tel
 
   Student in Logic Experimental Class, Dec. 2017 -- Jun. 2019
 
-* **School of Electronic Engineering, Beijing University of Posts and Telecommunications**
+* **International School, Beijing University of Posts and Telecommunications**
 
   B.Eng. in Telecoms (GPA 3.79/4.00 ; Ranking 7/327), Sep. 2016 -- Jun. 2020
 
