@@ -1,7 +1,7 @@
 ## About
 ---
 
-I am a M.S. student in Computer Science at Beijing University of Posts and Telecommunications (BUPT), mainly working on Information Extraction and Knowledge Reasoning.
+I am a M.S. student in Computer Science at Beijing University of Posts and Telecommunications (BUPT), mainly working on Transfer Learning.
 
 ## Education
 
@@ -10,47 +10,37 @@ I am a M.S. student in Computer Science at Beijing University of Posts and Telec
 
 * **State Key Laboratory of Networking and Switching Technology, Beijing University of Posts and Telecommunications**
 
-  M.S. Student in Computer Science, Sep. 2018 -- Present
+  M.S. Student in Computer Science, Start from Sep. 2020
 
 * **Ye Peida Colleage of Innovation and Entrepreneurship, Beijing University of Posts and Telecommunications**
 
-  Student in Logic Experimental Class, Dec. 2015 -- Jun. 2018
+  Student in Logic Experimental Class, Dec. 2017 -- Jun. 2019
 
 * **School of Electronic Engineering, Beijing University of Posts and Telecommunications**
 
-  B.Eng. in EE (GPA 4.44/5.00 ; Ranking 2/80), Sep. 2014 -- Jun. 2018
+  B.Eng. in Telecoms (GPA 3.79/4.00 ; Ranking 7/327), Sep. 2016 -- Jun. 2020
 
 ## Publications
 
 ---
 
-* **Ruiping Li** and Xiang Cheng, "**DIVINE: A Generative Adversarial Imitation Learning Framework for Knowledge Graph Reasoning.** "
+* Yanni Zhang, **Jiaxi Yang**, Meiqi Song, Xuan Zhang, Daquan Yang, "**Single air mode resonance photonic crystal integrated nanofiber cavity with high sensitivity for refractive index sensing**"
 
-  **EMNLP2019**, long paper, [[paper]](https://www.aclweb.org/anthology/TBD-709), [[code]](https://github.com/Ruiping-Li/DIVINE)
-
-* Sen Su, Ningning Jia, Xiang Cheng, Shuguang Zhu, **Ruiping Li**, "**Exploring Encoder-Decoder Model for Distant Supervised Relation Extraction**"
-
-  **IJCAI2018**, long paper, [[paper]](https://www.ijcai.org/proceedings/2018/610)
+  Accepted by OA but not published
 
 
 ## Awards & Honors
 ------
 
-- 2015, National Scholarship, Ministry of Education.
-- 2015, Excellent Student Cadre, BUPT.
-- 2015, Reginal Physics Competition of China, Second Award.
-- 2016, First Class Scholarship, BUPT.
-- 2016, Mathematical Contest in Modeling (MCM), Honorable Mention.
-- 2018, Excellent Graduate, Beijing.
-- 2019, Outstanding Graduate Student, BUPT.
+- 2017, First Class Scholarship, BUPT.
+- 2017, Mathematical Contest in Modeling (MCM), Honorable Mention.
+- 2017, Triple-A Student,BUPT.
+- 2018, First Class Scholarship, BUPT.
+- 2018, Triple-A Student,BUPT.
+- 2019, National Scholarship, Ministry of Education.
 
 ##  Experience
 ------
-
-- IJCAI-2019 Alibaba Adversarial AI Challenge (Ranking Top 2%)
-- Research Intern xxx
-- Program committee/reviewer xxx
-
 
 
 #### [[中文版]](./index_cn.html)
